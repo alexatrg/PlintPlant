@@ -1,0 +1,1813 @@
+<?xml version="1.0"?>
+<rdf:RDF 
+    xmlns:rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs = "http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dbo = "http://dbpedia.org/ontology/"
+    xmlns:wo = "https://www.bbc.co.uk/ontologies/wo"
+    xmlns:dc = "http://purl.org/dc/elements/1.1/"
+>
+
+<!-- carousel -->
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Tumbuhan_akuatik">
+    <dbo:name>Tumbuhan Akuatik</dbo:name>
+    <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CeratophyllumSubmersum.jpg/250px-CeratophyllumSubmersum.jpg</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Bahan_anyaman">
+    <dbo:name>Tumbuhan Bahan Anyaman</dbo:name>
+    <dc:image>https://upload.wikimedia.org/wikipedia/commons/8/86/Typh_angus_081006-3400_jtg.JPG</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Tanaman_hias">
+    <dbo:name>Tumbuhan Hias</dbo:name>
+    <dc:image>https://upload.wikimedia.org/wikipedia/commons/a/a9/Petunie.jpg</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Tumbuhan_industri">
+    <dbo:name>Tumbuhan Industri</dbo:name>
+    <dc:image>https://3.bp.blogspot.com/-J31hW17-Cvk/W9A9jOb6f1I/AAAAAAAABd4/kcsyqwp-Vcs_hK8dAbunxzt6vYxN7iH_QCLcBGAs/s1600/Sawit.jpg</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Tumbuhan_obat">
+    <dbo:name>Tumbuhan Obat</dbo:name>
+    <dc:image>https://upload.wikimedia.org/wikipedia/commons/0/08/Cinchona_officinalis_001.JPG</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Tanaman_peneduh">
+    <dbo:name>Tumbuhan Peneduh</dbo:name>
+    <dc:image>http://www.jurnalasia.com/wp-content/uploads/2015/01/Go-Green.jpg</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Penyamak_kulit">
+    <dbo:name>Tumbuhan Penyamak Kulit</dbo:name>
+    <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mallo_panic_100621-4416_mms.JPG/300px-Mallo_panic_100621-4416_mms.JPG</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Tumbuhan_pewarna">
+    <dbo:name>Tumbuhan Pewarna</dbo:name>
+    <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bischof_javan_130116-0493_blt.JPG/250px-Bischof_javan_130116-0493_blt.JPG</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Pohon_buah">
+    <dbo:name>Tumbuhan Pohon Buah</dbo:name>
+    <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Buah_Gohok.jpg/250px-Buah_Gohok.jpg</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Tumbuhan_beracun">
+    <dbo:name>Tumbuhan Beracun</dbo:name>
+    <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mandrake-roots.jpg/220px-Mandrake-roots.jpg</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Rotan">
+    <dbo:name>Tumbuhan Rotan</dbo:name>
+    <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rotan_dahanan.jpg/220px-Rotan_dahanan.jpg</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Tumbuhan_serat">
+    <dbo:name>Tumbuhan Serat</dbo:name>
+    <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Commerson_bartram_070601-013_ipb.JPG/240px-Commerson_bartram_070601-013_ipb.JPG</dc:image>
+</rdf:Description>
+
+<rdf:Description rdf:about = "https://id.m.wikipedia.org/wiki/Kategori:Tanaman_yang_dapat_dimakan">
+    <dbo:name>Tumbuhan Sayur</dbo:name>
+    <dc:image>https://upload.wikimedia.org/wikipedia/commons/6/6b/Abelmoschus_manihot_ssp_tetraphyllus_W_IMG_2157.jpg</dc:image>
+</rdf:Description>
+
+<!-- Tumbuhan akuatik -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Tumbuhan_air">
+        <dbo:name>Tumbuhan air</dbo:name>
+        <dbo:latinName>hydrophyte</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/FloatingRedBlueLilies.JPG/220px-FloatingRedBlueLilies.JPG</dc:image>
+        <dc:description>Tumbuhan air juga disebut hidrofit (Ing. hydrophyte) adalah tumbuhan yang telah menyesuaikan diri untuk hidup pada lingkungan perairan, baik terbenam sebagian atau seluruh tubuhnya.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Hydrocharitales</wo:order>
+        <wo:family>Hydrocharitaceae</wo:family>
+        <wo:genus>Hydrilla</wo:genus>
+        <dc:identifier>Tumbuhan Akuatik</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Ceratophyllum">
+        <dbo:name>Ceratophyllum</dbo:name>
+        <dbo:latinName>Ceratophyllum submersum</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CeratophyllumSubmersum.jpg/250px-CeratophyllumSubmersum.jpg</dc:image>
+        <dc:description>Ceratophyllum adalah satu-satunya marga anggota suku Ceratophyllaceae dan bangsa Ceratophyllales. Menurut Sistem klasifikasi APG II klad ini menempati bagian dasar dari percabangan evolusi tumbuhan berbunga, bersama-sama dengan teratai. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Angiospermae</wo:class>
+        <wo:order>Ceratophyllales</wo:order>
+        <wo:family>Ceratophyllaceae</wo:family>
+        <wo:genus>Ceratophyllum</wo:genus>
+        <dc:identifier>Tumbuhan Akuatik</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Eceng_gondok">
+        <dbo:name>Eceng gondok</dbo:name>
+        <dbo:latinName>Eichhornia crassipes</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Common_Water_hyacinth.jpg/300px-Common_Water_hyacinth.jpg</dc:image>
+        <dc:description>Eceng gondok (Eichhornia crassipes) adalah salah satu jenis tumbuhan air mengapung. Selain dikenal dengan nama eceng gondok, di beberapa daerah di Indonesia, eceng gondok mempunyai nama lain seperti di daerah Palembang dikenal dengan nama Kelipuk.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Commelinales</wo:order>
+        <wo:family>Pontederiaceae</wo:family>
+        <wo:genus>Eichhornia</wo:genus>
+        <dc:identifier>Tumbuhan Akuatik</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Gulma_laut">
+        <dbo:name>Gulma laut</dbo:name>
+        <dbo:latinName>Glacilaria Sp</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Codiumfragile.jpg/200px-Codiumfragile.jpg</dc:image>
+        <dc:description>Gulma laut, ganggang laut, atau rumput laut merupakan salah satu sumber daya hayati yang terdapat di wilayah pesisir dan laut. Istilah "rumput laut" adalah rancu secara botani karena dipakai untuk dua kelompok "tumbuhan" yang berbeda. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Rhodophyceae</wo:class>
+        <wo:order>Gigartinales</wo:order>
+        <wo:family>Solieraceae</wo:family>
+        <wo:genus>Eucheuma</wo:genus>
+        <dc:identifier>Tumbuhan Akuatik</dc:identifier>
+    </rdf:Description>                       
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Selada_air">
+        <dbo:name>Selada air</dbo:name>
+        <dbo:latinName>Nasturtium microphyllum</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nasturtium_lvs.jpg/250px-Nasturtium_lvs.jpg</dc:image>
+        <dc:description>Selada Air (Nasturtium officinale, N. microphyllum; sebelumnya Rorippa nasturtium-aquaticum, R. microphylla) adalah tumbuhan menahun yang cepat tumbuh, bersifat akuatik atau semi-akuatik, asli Eropa dan Asia.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Brassicales</wo:order>
+        <wo:family>Brassicaceae</wo:family>
+        <wo:genus>Nasturtium R. Br.</wo:genus>
+        <dc:identifier>Tumbuhan Akuatik</dc:identifier>
+    </rdf:Description>                       
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Seroja">
+        <dbo:name>Seroja</dbo:name>
+        <dbo:latinName>Nelumbo nucifera</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lotus_Nelumbo_nucifera_Flower_Large_3264px.jpg/250px-Lotus_Nelumbo_nucifera_Flower_Large_3264px.jpg</dc:image>
+        <dc:description>Seroja atau lotus (Nelumbo nucifera Gaertn.) adalah spesies tumbuhan air tahunan dari genus Nelumbo yang berasal dari India. Di Indonesia tanaman ini sering kali disebut teratai (Nymphaea) walaupun sebenarnya keduanya tidak berkerabat. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Proteales</wo:order>
+        <wo:family>Nelumbonaceae</wo:family>
+        <wo:genus>Nelumbo</wo:genus>
+        <dc:identifier>Tumbuhan Akuatik</dc:identifier>
+    </rdf:Description>    
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Teratai">
+        <dbo:name>Teratai</dbo:name>
+        <dbo:latinName>Nymphaea</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Seerosen_wei%C3%9F.jpg/270px-Seerosen_wei%C3%9F.jpg</dc:image>
+        <dc:description>Teratai (Nymphaea) adalah nama genus untuk tanaman air dari suku Nymphaeaceae. Dalam bahasa Inggris dikenal sebagai water-lily atau waterlily. Di Indonesia, teratai juga digunakan untuk menyebut tanaman dari genus Nelumbo (lotus).</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Nymphaeales</wo:order>
+        <wo:family>Nymphaeaceae</wo:family>
+        <wo:genus>Nymphaea</wo:genus>
+        <dc:identifier>Tumbuhan Akuatik</dc:identifier>
+    </rdf:Description>    
+
+<!-- Bahan anyaman -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Bambu_ampel">
+        <dbo:name>Bambu ampel</dbo:name>
+        <dbo:latinName>Bambusa vulgaris</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bambus_vulga_160426-0258_ckup.JPG/240px-Bambus_vulga_160426-0258_ckup.JPG</dc:image>
+        <dc:description>Bambu ampel atau bambu aur (Bambusa vulgaris) adalah sejenis bambu yang paling banyak ditanam orang karena kegunaannya, baik di Indonesia maupun di bagian lain dunia, di wilayah tropis dan ugahari.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Poales</wo:order>
+        <wo:family>Poaceae</wo:family>
+        <wo:genus>Bambusa</wo:genus>
+        <dc:identifier>Tumbuhan Bahan Anyaman</dc:identifier>
+    </rdf:Description> 
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Bambu_ater">
+        <dbo:name>Bambu ater</dbo:name>
+        <dbo:latinName>Gigantochloa atter</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gigantoc_atter_150527-51549_magt.JPG/240px-Gigantoc_atter_150527-51549_magt.JPG</dc:image>
+        <dc:description>Bambu ater atau buluh jawa (Gigantochloa atter) merupakan jenis bambu yang tersebar luas di Indonesia dan Asia Tenggara. Bambu ini banyak dipakai sebagai bahan bangunan dan peralatan rumah tangga.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Poales</wo:order>
+        <wo:family>Poaceae</wo:family>
+        <wo:genus>Gigantochloa</wo:genus>
+        <dc:identifier>Tumbuhan Bahan Anyaman</dc:identifier>
+    </rdf:Description>   
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Bambu_betung">
+        <dbo:name>Bambu betung</dbo:name>
+        <dbo:latinName>Dendrocalamus asper</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dendroc_asper_150527-51482_magt.JPG/240px-Dendroc_asper_150527-51482_magt.JPG</dc:image>
+        <dc:description>Bambu betung (Dendrocalamus asper) adalah salah satu jenis bambu yang memiliki ukuran lingkar batang yang besar dan termasuk ke dalam suku rumput-rumputan.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Poales</wo:order>
+        <wo:family>Poaceae</wo:family>
+        <wo:genus>Dendrocalamus</wo:genus>
+        <dc:identifier>Tumbuhan Bahan Anyaman</dc:identifier>
+    </rdf:Description>   
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Bemban">
+        <dbo:name>Bemban</dbo:name>
+        <dbo:latinName>Donax canniformis</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dona_canni_100526-2110_sap.jpg/250px-Dona_canni_100526-2110_sap.jpg</dc:image>
+        <dc:description>Bemban atau bamban (Donax canniformis) adalah sejenis terna yang menghasilkan serat bahan anyam-anyaman. Tumbuhan ini dikenal pula dengan nama-nama lain seperti bamban, bumban, bomban, banban.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Zingiberales</wo:order>
+        <wo:family>Marantaceae</wo:family>
+        <wo:genus>Donax</wo:genus>
+        <dc:identifier>Tumbuhan Bahan Anyaman</dc:identifier>
+    </rdf:Description>   
+ 
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Gelagah">
+        <dbo:name>Gelagah</dbo:name>
+        <dbo:latinName>Saccharum spontaneum</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sacchar_sponta_140531-0600_tdp.JPG/240px-Sacchar_sponta_140531-0600_tdp.JPG</dc:image>
+        <dc:description>Gelagah (Saccharum spontaneum) adalah sejenis rumput besar anggota suku Poaceae. Rumput buluh yang menyebar luas di wilayah tropika dan ugahari ini dikenal pula dengan berbagai nama daerah, di antaranya: galoga, gelagah.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Poales</wo:order>
+        <wo:family>Poaceae</wo:family>
+        <wo:genus>Saccharum</wo:genus>
+        <dc:identifier>Tumbuhan Bahan Anyaman</dc:identifier>
+    </rdf:Description>   
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kumbuh">
+        <dbo:name>Kumbuh</dbo:name>
+        <dbo:latinName>Schoenoplectiella mucronata</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Scirp_mucr_160315-0462_mms.JPG/250px-Scirp_mucr_160315-0462_mms.JPG</dc:image>
+        <dc:description>Kumbuh atau kercut (Schoenoplectiella mucronata) adalah sejenis rumput yang hidup di rawa-rawa, termasuk anggota suku Cyperaceae. Tumbuhan yang menyebar luas di wilayah hangat (Eropa, Asia, Australia) ini merupakan gulma sekaligus penghasil bahan anyaman dan tali.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Poales</wo:order>
+        <wo:family>Cyperaceae</wo:family>
+        <wo:genus>Schoenoplectiella</wo:genus>
+        <dc:identifier>Tumbuhan Bahan Anyaman</dc:identifier>
+    </rdf:Description>   
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Lembang_(tumbuhan)">
+        <dbo:name>Lembang (tumbuhan)</dbo:name>
+        <dbo:latinName>Typha angustifolia</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Typh_angus_081006-3400_jtg.JPG/220px-Typh_angus_081006-3400_jtg.JPG</dc:image>
+        <dc:description>Lembang atau embet (Typha angustifolia L.) adalah sejenis tumbuhan serupa rumput besar yang menghuni rawa-rawa, terutama dekat pantai namun juga di pegunungan. Ia dikenal dengan nama-nama daerah seperti asiwung raja mantri, wawalingian. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Poales</wo:order>
+        <wo:family>Typhaceae</wo:family>
+        <wo:genus>Typha</wo:genus>
+        <dc:identifier>Tumbuhan Bahan Anyaman</dc:identifier>
+    </rdf:Description>   
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Lembang_(tumbuhan)">
+        <dbo:name>Lembang (tumbuhan)</dbo:name>
+        <dbo:latinName>Typha angustifolia</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Typh_angus_081006-3400_jtg.JPG/220px-Typh_angus_081006-3400_jtg.JPG</dc:image>
+        <dc:description>Lembang atau embet (Typha angustifolia L.) adalah sejenis tumbuhan serupa rumput besar yang menghuni rawa-rawa, terutama dekat pantai namun juga di pegunungan. Ia dikenal dengan nama-nama daerah seperti asiwung raja mantri, wawalingian. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Poales</wo:order>
+        <wo:family>Typhaceae</wo:family>
+        <wo:genus>Typha</wo:genus>
+        <dc:identifier>Tumbuhan Bahan Anyaman</dc:identifier>
+    </rdf:Description>   
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Mensiang">
+        <dbo:name>Mensiang</dbo:name>
+        <dbo:latinName>Actinoscirpus grossus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Actinosci_gros_171128-5310427_krc.JPG/220px-Actinosci_gros_171128-5310427_krc.JPG</dc:image>
+        <dc:description>Mensiang atau wlingi (Actinoscirpus grossus) adalah sejenis rumput anggota suku teki-tekian (Cyperaceae) yang sering dimanfaatkan sebagai bahan anyam-anyaman. Rumput ini tumbuh di paya dan rawa-rawa. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Poales</wo:order>
+        <wo:family>Cyperaceae</wo:family>
+        <wo:genus>Actinoscirpus</wo:genus>
+        <dc:identifier>Tumbuhan Bahan Anyaman</dc:identifier>
+    </rdf:Description>   
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Pandan_duri">
+        <dbo:name>Pandan duri</dbo:name>
+        <dbo:latinName>Pandanus tectorius</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Starr_030729-0031_Pandanus_tectorius.jpg/300px-Starr_030729-0031_Pandanus_tectorius.jpg</dc:image>
+        <dc:description>Pandan duri, pandan tikar, pandan samak, atau pandan pudak (Pandanus tectorius) adalah sejenis tumbuhan serupa pohon, anggota suku Pandanaceae. Ia tersebar di seluruh pantai-pantai dan pulau-pulau di kawasan Asia Selatan dan Timur sampai ke Polinesia.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Pandanales</wo:order>
+        <wo:family>Pandanaceae</wo:family>
+        <wo:genus>Pandanus</wo:genus>
+        <dc:identifier>Tumbuhan Bahan Anyaman</dc:identifier>
+    </rdf:Description>   
+
+<!-- Tanaman hias -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Melati">
+        <dbo:name>Melati</dbo:name>
+        <dbo:latinName>Jasminum sambac</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/JasminumSambac2.jpg/240px-JasminumSambac2.jpg</dc:image>
+        <dc:description>Melati merupakan tanaman bunga hias berupa perdu berbatang tegak yang hidup menahun. Melati merupakan genus dari semak dan tanaman merambat dalam keluarga zaitun (Oleaceae).</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Lamiales</wo:order>
+        <wo:family>Oleaceae</wo:family>
+        <wo:genus>Jasminum</wo:genus>
+        <dc:identifier>Tumbuhan Hias</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Cempaka_wangi">
+        <dbo:name>Cempaka</dbo:name>
+        <dbo:latinName>Magnolia champaca</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Magnolia_champaca2.JPG/220px-Magnolia_champaca2.JPG</dc:image>
+        <dc:description>Cempaka wangi (Magnolia champaca syn. Michelia champaca) adalah pohon hijau abadi besar yang bunga putih atau kuningnya dikenal luas sebagai sumber wewangian.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Magnoliales</wo:order>
+        <wo:family>Magnoliaceae</wo:family>
+        <wo:genus>Magnolia</wo:genus>
+        <dc:identifier>Tumbuhan Hias</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Fuchsia">
+        <dbo:name>Fuchsia</dbo:name>
+        <dbo:latinName>Fuchsia hybrida</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Brincos_De_Princesa.jpg/220px-Brincos_De_Princesa.jpg</dc:image>
+        <dc:description>Fuchsia adalah sebuah genus tanaman hias dari keluarga Onargaceae. Tanaman ini berasal dari Amerika Selatan.Terdapat sekitar 100 spesies tanaman yang tergolong dalam genus ini.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Myrtales</wo:order>
+        <wo:family>Onagraceae</wo:family>
+        <wo:genus>Fuchsia</wo:genus>
+        <dc:identifier>Tumbuhan Hias</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Bunga_kertas">
+        <dbo:name>Bunga kertas</dbo:name>
+        <dbo:latinName>Bougainvillea</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bunga_kertas.jpg/240px-Bunga_kertas.jpg</dc:image>
+        <dc:description>Bunga kertas atau bugenvil (Bougainvillea) adalah tanaman hias populer. Bentuknya berupa pohon kecil yang sukar tumbuh tegak.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Caryophyllales</wo:order>
+        <wo:family>Nyctaginaceae</wo:family>
+        <wo:genus>Bougainvillea</wo:genus>
+        <dc:identifier>Tumbuhan Hias</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kemboja">
+        <dbo:name>Kemboja</dbo:name>
+        <dbo:latinName>Plumeria</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Frangipani_flowers.jpg/300px-Frangipani_flowers.jpg</dc:image>
+        <dc:description>Kemboja, kamboja atau semboja  (Plumeria) adalah sekelompok tumbuhan dalam marga Plumeria. Bentuknya berupa pohon kecil dengan daun jarang namun tebal. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Gentianales</wo:order>
+        <wo:family>Apocynaceae</wo:family>
+        <wo:genus>Plumeria</wo:genus>
+        <dc:identifier>Tumbuhan Hias</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Ubi_hias">
+        <dbo:name>Ubi hias</dbo:name>
+        <dbo:latinName>Ipomoea batatas var. margarita</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Arya.ipomoea_batatas_margaritas.cikampek_station._2019.2.jpg/300px-Arya.ipomoea_batatas_margaritas.cikampek_station._2019.2.jpg</dc:image>
+        <dc:description>Ubi hias (Ipomoea batatas var. margarita) adalah tanaman hias menjalar umbi-umbian yang berasal dari genus tumbuhan Ipomoea varietas dari tanaman ubi jalar.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Solanales</wo:order>
+        <wo:family>Convolvulaceae</wo:family>
+        <wo:genus>Ipomoea</wo:genus>
+        <dc:identifier>Tumbuhan Hias</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Bunga_tasbih">
+        <dbo:name>Bunga tasbih</dbo:name>
+        <dbo:latinName>Canna lily</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bunga_tasbih_%2812%29.jpg/220px-Bunga_tasbih_%2812%29.jpg</dc:image>
+        <dc:description>Bunga tasbih adalah tanaman yang tergolong tanaman luar dengan nama latin Canna lily. Tanaman ini biasanya tumbuh di hutan dan pegunungan walau tak jarang dijadikan tanaman hias di pekarangan dan taman kota.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Zingiberals</wo:order>
+        <wo:family>Cannaceae</wo:family>
+        <wo:genus>Canna</wo:genus>
+        <dc:identifier>Tumbuhan Hias</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Alamanda">
+        <dbo:name>Alamanda</dbo:name>
+        <dbo:latinName>Allamanda cathartica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Arya.allamanda.2019.jpeg/300px-Arya.allamanda.2019.jpeg</dc:image>
+        <dc:description>Alamanda atau allamanda (Allamanda cathartica) adalah tanaman hias yang umum disebut sebagai bunga alamanda dan juga sering disebut sebagai bunga terompet emas, bunga lonceng kuning, atau bunga buttercup.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Gentianales</wo:order>
+        <wo:family>Apocynaceae</wo:family>
+        <wo:genus>Allamanda</wo:genus>
+        <dc:identifier>Tumbuhan Hias</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Arum_dalu">
+        <dbo:name>Arum dulu</dbo:name>
+        <dbo:latinName>Cestrum nocturnum</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cestrum_nocturnum_Blanco1.151.png/220px-Cestrum_nocturnum_Blanco1.151.png</dc:image>
+        <dc:description>Arum dalu (Cestrum nocturnum L.) adalah tanaman hias, dan tumbuhan obat yang banyak tumbuh di Indonesia. Ia berasal dari Amerika, dan dikatakan sebagai tanaman pendatang. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Solanales</wo:order>
+        <wo:family>Solanaceae</wo:family>
+        <wo:genus>Cestrum</wo:genus>
+        <dc:identifier>Tumbuhan Hias</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kembang_merak">
+        <dbo:name>Kembang merak</dbo:name>
+        <dbo:latinName>Caesalpinia pulcherrima</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Caesalpinia_pulcherrima.jpg/240px-Caesalpinia_pulcherrima.jpg</dc:image>
+        <dc:description>Kembang Merak atau Caesalpinia pulcherrima adalah tanaman asli dari Asia dan Afrika. Selain indah, tanaman ini juga mempunyai khasiat yang banyak, misalnya sebagai obat untuk menstruasi yang tidak lancar, mata merah, diare.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Fabales</wo:order>
+        <wo:family>Fabaceae</wo:family>
+        <wo:genus>Caesalpinia</wo:genus>
+        <dc:identifier>Tumbuhan Hias</dc:identifier>
+    </rdf:Description>
+
+<!-- Tumbuhan industri -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Akar_wangi">
+        <dbo:name>Akar wangi</dbo:name>
+        <dbo:latinName>Chrysopogon zizanioides</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vetiveria_zizanioides0.jpg/240px-Vetiveria_zizanioides0.jpg</dc:image>
+        <dc:description>Akar wangi atau narwastu (serai wangi, rumput akar wangi, vetiver, Chrysopogon zizanioides syn. Vetiveria zizanioides, Andropogon zizanioides) adalah sejenis rumput yang berasal dari India.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Poales</wo:order>
+        <wo:family>Poaceae</wo:family>
+        <wo:genus>Chrysopogon</wo:genus>
+        <dc:identifier>Tumbuhan Industri</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Brassica_napus">
+        <dbo:name>Brassica napus</dbo:name>
+        <dbo:latinName>B. napus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Brassica_napus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-169.jpg/250px-Brassica_napus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-169.jpg</dc:image>
+        <dc:description>Brassica napus L. (suku kubis-kubisan atau Brassicaceae) dikenal dari salah satu kelompoknya yang menjadi tumbuhan penghasil minyak penting dunia, yaitu rapa. Rapa secara agak salah kaprah disebut juga kanola.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Capparales</wo:order>
+        <wo:family>Brassicaceae</wo:family>
+        <wo:genus>Brassica</wo:genus>
+        <dc:identifier>Tumbuhan Industri</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Cengkih">
+        <dbo:name>Cengkih</dbo:name>
+        <dbo:latinName>Syzygium aromaticum</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Syzygium_aromaticum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-030.jpg/220px-Syzygium_aromaticum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-030.jpg</dc:image>
+        <dc:description>Cengkih (Syzygium aromaticum, syn. Eugenia aromaticum), dalam bahasa Inggris disebut cloves, adalah kuncup bunga kering beraroma dari keluarga pohon Myrtaceae.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Myrtales</wo:order>
+        <wo:family>Myrtaceae</wo:family>
+        <wo:genus>Syzygium</wo:genus>
+        <dc:identifier>Tumbuhan Industri</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Jernang">
+        <dbo:name>Jernang</dbo:name>
+        <dbo:latinName>Daemonorops</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daemonorops_draco_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-023.jpg/220px-Daemonorops_draco_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-023.jpg</dc:image>
+        <dc:description>Daemonorops adalah nama genus dari jenis rotan yang tergolong dalam suku Arecaceae, terutama ditemukan di daerah tropis dan subtropis Asia Tenggara.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Arecales</wo:order>
+        <wo:family>Arecaceae</wo:family>
+        <wo:genus>Daemonorops</wo:genus>
+        <dc:identifier>Tumbuhan Industri</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Dipterocarpaceae">
+        <dbo:name>Dipterocarpaceae</dbo:name>
+        <dbo:latinName>Carlquistia</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dipterocarpus_retusus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-054.jpg/250px-Dipterocarpus_retusus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-054.jpg</dc:image>
+        <dc:description>Suku meranti-merantian atau Dipterocarpaceae merupakan sekelompok tumbuhan pantropis yang anggota-anggotanya banyak dimanfaatkan dalam bidang perkayuan.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malvales</wo:order>
+        <wo:family>Dipterocarpaceae</wo:family>
+        <wo:genus>Daemonorops</wo:genus>
+        <dc:identifier>Tumbuhan Industri</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Damar_(pohon)">
+        <dbo:name>Damar</dbo:name>
+        <dbo:latinName>Agathis dammara</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Agathis_dammara_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-155.jpg/250px-Agathis_dammara_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-155.jpg</dc:image>
+        <dc:description>Pohon damar (Agathis dammara (Lamb.) Rich.) adalah sejenis pohon anggota tumbuhan runjung (Gymnospermae) yang merupakan tumbuhan asli Indonesia. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Pinopsida</wo:class>
+        <wo:order>Pinales</wo:order>
+        <wo:family>Araucariaceae</wo:family>
+        <wo:genus>Agathis</wo:genus>
+        <dc:identifier>Tumbuhan Industri</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Elaeis_(kelapa_sawit)">
+        <dbo:name>Elaeis (kelapa sawit)</dbo:name>
+        <dbo:latinName>Elaeis guineensis</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Elaeis_guineensis0.jpg/240px-Elaeis_guineensis0.jpg</dc:image>
+        <dc:description>Elaeis (dari bahasa Yunani, artinya "minyak") adalah genus dari Arecaceae yang memiliki dua spesies, yang disebut sebagai kelapa sawit. Tumbuhan ini digunakan untuk usaha pertanian komersial dalam produksi minyak sawit.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Arecales</wo:order>
+        <wo:family>Arecaceae</wo:family>
+        <wo:genus>Elaeis</wo:genus>
+        <dc:identifier>Tumbuhan Industri</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Enau">
+        <dbo:name>Enau</dbo:name>
+        <dbo:latinName>Arenga pinnata</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Arenga_pinnata_Blanco2.419.jpg/250px-Arenga_pinnata_Blanco2.419.jpg</dc:image>
+        <dc:description>Enau atau aren (Arenga pinnata, suku Arecaceae) adalah palma yang terpenting setelah kelapa (nyiur) karena merupakan tanaman serba guna. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Arecales</wo:order>
+        <wo:family>Arecaceae</wo:family>
+        <wo:genus>Arenga</wo:genus>
+        <dc:identifier>Tumbuhan Industri</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Getah_perca">
+        <dbo:name>Getah perca</dbo:name>
+        <dbo:latinName>Palaquium</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Palaquium_gutta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-099.jpg/240px-Palaquium_gutta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-099.jpg</dc:image>
+        <dc:description>Getah perca atau Palaquium adalah salah satu tumbuhan asli Nusantara yang tersebar di Indonesia bagian barat dan Semenanjung Malaya. Tumbuhan ini juga terdapat Australasia, Taiwan bahkan sampai ke Kepulauan Solomon. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Ericales</wo:order>
+        <wo:family>Sapotaceae</wo:family>
+        <wo:genus>Palaquium</wo:genus>
+        <dc:identifier>Tumbuhan Industri</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kapuk_randu">
+        <dbo:name>Getah perca</dbo:name>
+        <dbo:latinName>Ceiba pentandra</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapok_tree_Honolulu.jpg/220px-Kapok_tree_Honolulu.jpg</dc:image>
+        <dc:description>Kapuk randu atau kapuk (Ceiba pentandra) adalah pohon tropis yang tergolong ordo Malvales dan famili Malvaceae (sebelumnya dikelompokkan ke dalam famili terpisah Bombacaceae). </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malvales</wo:order>
+        <wo:family>Malvaceae (Bombacaceae)</wo:family>
+        <wo:genus>Ceiba</wo:genus>
+        <dc:identifier>Tumbuhan Industri</dc:identifier>
+    </rdf:Description>
+
+<!--TANAMAN PENEDUH -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Beringin">
+        <dbo:name>Beringin</dbo:name>
+        <dbo:latinName>Ficus benjamina</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ficus_benjamina2.jpg/240px-Ficus_benjamina2.jpg</dc:image>
+        <dc:description>Beringin sangat akrab dengan budaya asli Indonesia. Tumbuhan berbentuk pohon besar ini sering kali dianggap suci dan melindungi penduduk setempat. Sesaji sering diberikan di bawah pohon beringin yang telah tua dan berukuran besar karena dianggap sebagai tempat kekuatan magis berkumpul.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Urticales</wo:order>
+        <wo:family>Moraceae</wo:family>
+        <wo:genus>Ficus</wo:genus>
+        <dc:identifier>Tumbuhan Peneduh</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Bungur">
+        <dbo:name>Bungur</dbo:name>
+        <dbo:latinName>Lagerstroemia</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lagerstroemia_indica_Blanco1.207.png/240px-Lagerstroemia_indica_Blanco1.207.png</dc:image>
+        <dc:description>Bunganya berwarna merah jambu, bila mekar bersama-sama akan tampak indah. Perbanyakan anakannya berasal dari biji yang keluar setelah proses pembungaan selesai.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Myrtales</wo:order>
+        <wo:family>Lythraceae</wo:family>
+        <wo:genus>Linnaeus</wo:genus>
+        <dc:identifier>Tumbuhan Peneduh</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kemboja">
+        <dbo:name>Kemboja</dbo:name>
+        <dbo:latinName>Plumeria</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Frangipani_flowers.jpg/300px-Frangipani_flowers.jpg</dc:image>
+        <dc:description>Bunganya berwarna merah jambu, bila mekar bersama-sama akan tampak indah. Perbanyakan anakannya berasal dari biji yang keluar setelah proses pembungaan selesai.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Gentianales</wo:order>
+        <wo:family>Apocynaceae</wo:family>
+        <wo:genus>Plumeria</wo:genus>
+        <dc:identifier>Tumbuhan Peneduh</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Ketapang">
+        <dbo:name>Ketapang</dbo:name>
+        <dbo:latinName>Terminalia catappa</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Terminalia_catappa_Blanco1.144.jpg/240px-Terminalia_catappa_Blanco1.144.jpg</dc:image>
+        <dc:description>Ketapang atau katapang (Terminalia catappa) adalah nama sejenis pohon tepi pantai yang rindang. Lekas tumbuh dan membentuk tajuk indah bertingkat-tingkat, ketapang kerap dijadikan pohon peneduh di taman-taman dan tepi jalan.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Myrtales</wo:order>
+        <wo:family>Combretaceae</wo:family>
+        <wo:genus>Terminalia</wo:genus>
+        <dc:identifier>Tumbuhan Peneduh</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Malapari">
+        <dbo:name>Malapari</dbo:name>
+        <dbo:latinName>Pongamia pinnata</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pongam_pinnat_110716-15926_sntong.JPG/240px-Pongam_pinnat_110716-15926_sntong.JPG</dc:image>
+        <dc:description>Malapari atau mempari[5] (Pongamia pinnata) adalah sejenis pohon penghuni pantai, anggota suku Fabaceae (Leguminosae). Pohon ini juga dikenal dengan nama-nama lokal seperti kacang kayu laut. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Fabales</wo:order>
+        <wo:family>Fabaceae</wo:family>
+        <wo:genus>Pongamia</wo:genus>
+        <dc:identifier>Tumbuhan Peneduh</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Puspa_(kayu)">
+        <dbo:name>Puspai</dbo:name>
+        <dbo:latinName>Schima wallichii</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Schim_walli_081205-4279_stgd.jpg/250px-Schim_walli_081205-4279_stgd.jpg</dc:image>
+        <dc:description>Puspa, seru, atau medang gatal (Schima wallichii) adalah sejenis pohon penghasil kayu pertukangan berkualitas sedang. Pohon ini termasuk ke dalam keluarga teh (Theaceae), dan menyebar luas mulai dari Nepal, melalui Asia Tenggara, hingga ke Papua Nugini. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Ericales</wo:order>
+        <wo:family>Theaceae</wo:family>
+        <wo:genus>Schima</wo:genus>
+        <dc:identifier>Tumbuhan Peneduh</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Randu_alas">
+        <dbo:name>Randu Alas</dbo:name>
+        <dbo:latinName>Bombax ceiba</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cotton_tree_at_Tsing_Yi_Island.jpg/240px-Cotton_tree_at_Tsing_Yi_Island.jpg</dc:image>
+        <dc:description>Randu alas (Bombax ceiba L.) adalah pohon yang dianggap suci oleh umat Hindu. Tumbuhan ini dapat berukuran sangat besar dan sering ditanam di dekat bangunan suci. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malvales</wo:order>
+        <wo:family>Malvaceae</wo:family>
+        <wo:genus>Bombax</wo:genus>
+        <dc:identifier>Tumbuhan Peneduh</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Saga_pohon">
+        <dbo:name>Saga Pohon</dbo:name>
+        <dbo:latinName>Adenanthera pavonina</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Adenanthera_pavonina.jpg/240px-Adenanthera_pavonina.jpg</dc:image>
+        <dc:description>Saga pohon (Adenanthera pavonina) adalah pohon yang buahnya menyerupai petai (tipe polong) dengan bijinya kecil berwarna merah. Tumbuhan ini berasal dari Asia Selatan namun sekarang telah tersebar pantropis.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Fabales</wo:order>
+        <wo:family>Fabaceae</wo:family>
+        <wo:genus>Adenanthera</wo:genus>
+        <dc:identifier>Tumbuhan Peneduh</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Ki_putri">
+        <dbo:name>Ki Putri</dbo:name>
+        <dbo:latinName>Podocarpus neriifolius</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Podocarpus_neriifolius_UJ.jpg/220px-Podocarpus_neriifolius_UJ.jpg</dc:image>
+        <dc:description>Ki putri (bahasa Latin: Podocarpus neriifolius) adalah jenis konifer yang termasuk dalam suku Podocarpaceae.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Pinales</wo:order>
+        <wo:family>Podocarpaceae</wo:family>
+        <wo:genus>Podocarpus</wo:genus>
+        <dc:identifier>Tumbuhan Peneduh</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Tabebuya">
+        <dbo:name>Ki Putri</dbo:name>
+        <dbo:latinName>Podocarpus neriifolius</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Podocarpus_neriifolius_UJ.jpg/220px-Podocarpus_neriifolius_UJ.jpg</dc:image>
+        <dc:description>Tanaman Tabebuya memiliki bunga yang berbeda-beda warna. Ada warna kuning dan berbentuk terompet, ada juga yang berwarna pink, ungu, bahkan merah tua.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Lamiales</wo:order>
+        <wo:family>Bignoniaceae</wo:family>
+        <wo:genus>Handroanthus</wo:genus>
+        <dc:identifier>Tumbuhan Peneduh</dc:identifier>
+  </rdf:Description>
+
+<!-- PENYAMAK KULIT -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Balik_angin">
+        <dbo:name>Balik angin</dbo:name>
+        <dbo:latinName>Mallotus paniculatus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mallo_panic_100621-4416_mms.JPG/300px-Mallo_panic_100621-4416_mms.JPG</dc:image>
+        <dc:description>Balik angin (Mallotus paniculatus) adalah sejenis pohon penyusun hutan sekunder, anggota suku Euphorbiaceae. Pohon kecil ini tidak banyak dimanfaatkan, kecuali bahwa pepagannya dapat diserpih dan digunakan sebagai bahan tali kasar dan kayunya dipakai sebagai bahan bakar. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Malpighiales</wo:order>
+        <wo:family>Euphorbiaceae</wo:family>
+        <wo:genus>Mallotus</wo:genus>
+        <dc:identifier>Tumbuhan Penyamak Kulit</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Dungun_kecil">
+        <dbo:name>Dungun kecil</dbo:name>
+        <dbo:latinName>Heritiera littoraliss</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Starr_070727-7637_Heritiera_littoralis.jpg/260px-Starr_070727-7637_Heritiera_littoralis.jpg</dc:image>
+        <dc:description>Dungun kecil atau dungun laut (Heritiera littoralis) adalah nama sejenis pohon penghuni hutan pantai, rawa-rawa pantai, dan hutan bakau, anggota suku Malvaceae.  </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Malvales</wo:order>
+        <wo:family>Malvaceae</wo:family>
+        <wo:genus>Heritiera</wo:genus>
+        <dc:identifier>Tumbuhan Penyamak Kulit</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Gambir">
+        <dbo:name>Gambir</dbo:name>
+        <dbo:latinName>Uncaria</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Uncaria_rhynchophylla_kagikzr01.jpg/300px-Uncaria_rhynchophylla_kagikzr01.jpg</dc:image>
+        <dc:description>Gambir (Uncaria) adalah genus tumbuhan yang termasuk suku rubiaceae. Di Indonesia gambir pada umumnya digunakan untuk menyirih.Kegunaan yang lebih penting adalah sebagai bahan penyamak kulit dan pewarna. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Gentianales</wo:order>
+        <wo:family>Rubiaceae</wo:family>
+        <wo:genus>Uncaria</wo:genus>
+        <dc:identifier>Tumbuhan Penyamak Kulit</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Mahang_damar">
+        <dbo:name>Mahang damar</dbo:name>
+        <dbo:latinName>Macaranga triloba</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Macar_trilob_161020-5301330_ipb.JPG/220px-Macar_trilob_161020-5301330_ipb.JPG</dc:image>
+        <dc:description>Mahang damar, mahang kukur, atau kayu sepat (Macaranga triloba) adalah sejenis pohon kecil atau perdu penyusun hutan sekunder, anggota suku Euphorbiaceae.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malpighales</wo:order>
+        <wo:family>Euphorbiaceae</wo:family>
+        <wo:genus>Macaranga</wo:genus>
+        <dc:identifier>Tumbuhan Penyamak Kulit</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Palasa">
+        <dbo:name>Palasa</dbo:name>
+        <dbo:latinName>Butea monosperma</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bute_monos_110902-17469_bal.JPG/220px-Bute_monos_110902-17469_bal.JPG</dc:image>
+        <dc:description>Palasa, plasa atau ploso (Butea monosperma) adalah sejenis pohon anggota suku Fabaceae. Pohon berbunga indah ini menyebar luas mulai dari India, Asia Tenggara, hingga ke Indonesia bagian barat. Dari bunganya yang jingga terang dihasilkan bahan pewarna alami.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Fabales</wo:order>
+        <wo:family>Fabaceae</wo:family>
+        <wo:genus>Butea</wo:genus>
+        <dc:identifier>Tumbuhan Penyamak Kulit</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Tengguli">
+        <dbo:name>Tengguli</dbo:name>
+        <dbo:latinName>Cassia fistula</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Konnamaram.JPG/270px-Konnamaram.JPG</dc:image>
+        <dc:description>Tengguli[3], trengguli atau kayu raja (Cassia fistula) adalah tumbuhan di dalam keluarga Fabaceae, anak suku Caesalpinioidea. Berbunga kuning cerah dan indah, tengguli banyak ditanam sebagai pohon hias dan juga tanaman obat tradisional.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Fabales</wo:order>
+        <wo:family>Fabaceae</wo:family>
+        <wo:genus>Cassia</wo:genus>
+        <dc:identifier>Tumbuhan Penyamak Kulit</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Trengguli_wanggang">
+        <dbo:name>Trengguli wanggang</dbo:name>
+        <dbo:latinName>Cassia javanica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cassia_javanica_flowers.jpg/220px-Cassia_javanica_flowers.jpg</dc:image>
+        <dc:description>Trengguli wanggang atau bobondelan (Cassia javanica) adalah sejenis pohon kecil anggota suku Fabaceae, anak suku Caesalpinioideae. Tumbuhan ini asal usulnya dari Asia Tenggara, namun karena bunganya yang cantik kini ia ditanam secara meluas di pelbagai wilayah tropika.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Fabales</wo:order>
+        <wo:family>Fabaceae</wo:family>
+        <wo:genus>Cassia</wo:genus>
+        <dc:identifier>Tumbuhan Penyamak Kulit</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Weru">
+        <dbo:name>Weru</dbo:name>
+        <dbo:latinName>Albizia procera</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Doon_Siris_%28Albizia_procera%29_pod_at_Jayanti%2C_Duars%2C_West_Bengal_W_Picture_215.jpg/220px-Doon_Siris_%28Albizia_procera%29_pod_at_Jayanti%2C_Duars%2C_West_Bengal_W_Picture_215.jpg</dc:image>
+        <dc:description>Weru atau ki hiang (Albizia procera) adalah sejenis pohon anggota suku Fabaceae. Pohon dengan banyak kegunaan ini menyebar luas mulai dari India di barat, Asia Tenggara, Tiongkok selatan, Nusantara, hingga Australia utara.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Fabales</wo:order>
+        <wo:family>Fabaceae</wo:family>
+        <wo:genus>Albizia</wo:genus>
+        <dc:identifier>Tumbuhan Penyamak Kulit</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Trengguli_wanggang">
+        <dbo:name>Trengguli wanggang</dbo:name>
+        <dbo:latinName>Cassia javanica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cassia_javanica_flowers.jpg/220px-Cassia_javanica_flowers.jpg</dc:image>
+        <dc:description>Trengguli wanggang atau bobondelan (Cassia javanica) adalah sejenis pohon kecil anggota suku Fabaceae, anak suku Caesalpinioideae. Tumbuhan ini asal usulnya dari Asia Tenggara, namun karena bunganya yang cantik kini ia ditanam secara meluas di pelbagai wilayah tropika.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Fabales</wo:order>
+        <wo:family>Fabaceae</wo:family>
+        <wo:genus>Cassia</wo:genus>
+        <dc:identifier>Tumbuhan Penyamak Kulit</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Merkubung">
+        <dbo:name>Merkubung</dbo:name>
+        <dbo:latinName>Macaranga gigantea</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Macar_gigan_090812-10778_klr.JPG/250px-Macar_gigan_090812-10778_klr.JPG</dc:image>
+        <dc:description>Merkubung (Macaranga gigantea) yang dikenal pula dengan sebutan tutup gede adalah sejenis tumbuhan penyusun hutan sekunder. Kayunya lunak mirip jeungjing (Albizia falcataria (L.) Fosberg).</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Malpighiales</wo:order>
+        <wo:family>Euphorbiaceae</wo:family>
+        <wo:genus>Macaranga</wo:genus>
+        <dc:identifier>Tumbuhan Penyamak Kulit</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Mara">
+        <dbo:name>Mara</dbo:name>
+        <dbo:latinName>Macaranga tanarius</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Macar_tanar_161023-5301492_galg.JPG/220px-Macar_tanar_161023-5301492_galg.JPG</dc:image>
+        <dc:description>Mara (Macaranga tanarius) adalah sejenis pohon penyusun hutan sekunder yang menghasilkan kayu ringan untuk membuat papan,
+     kayu bakar, dan juga bahan obat tradisional.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Malpighiales</wo:order>
+        <wo:family>Euphorbiaceae</wo:family>
+        <wo:genus>Macaranga</wo:genus>
+        <dc:identifier>Tumbuhan Penyamak Kulit</dc:identifier>
+  </rdf:Description>
+
+
+<!-- TUMBUHAN PEWARNA -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Bidara">
+        <dbo:name>Bidara</dbo:name>
+        <dbo:latinName>Ziziphus mauritiana</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zizip_maurit_110901-17127_H_bal.jpg/250px-Zizip_maurit_110901-17127_H_bal.jpg</dc:image>
+        <dc:description>Bidara atau widara (Ziziphus mauritiana) adalah sejenis pohon kecil penghasil buah yang tumbuh di daerah kering. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Rosales</wo:order>
+        <wo:family>Rhamnaceae</wo:family>
+        <wo:genus>Ziziphus</wo:genus>
+        <dc:identifier>Tumbuhan Pewarna</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Gadog">
+        <dbo:name>Gadog</dbo:name>
+        <dbo:latinName>Bischofia javanica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bischof_javan_130116-0493_blt.JPG/250px-Bischof_javan_130116-0493_blt.JPG</dc:image>
+        <dc:description>Gadog, gintung atau kerinjing (Bischofia javanica) adalah sejenis pohon dari suku Phyllanthaceae. Pohon ini menyebar luas mulai dari India di barat, Jepang selatan di utara, ke selatan hingga ke Kepulauan Nusantara dan ke timur hingga ke Australia dan Pasifik. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Malpighiales</wo:order>
+        <wo:family>Phyllanthaceae</wo:family>
+        <wo:genus>Bischofia</wo:genus>
+        <dc:identifier>Tumbuhan Pewarna</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Ipuh">
+        <dbo:name>Ipuh</dbo:name>
+        <dbo:latinName>Bischofia javanica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bischof_javan_130116-0493_blt.JPG/250px-Bischof_javan_130116-0493_blt.JPG</dc:image>
+        <dc:description>Ipuh, ipoh atau upas (Antiaris toxicaria) adalah sejenis pohon anggota suku Moraceae. Pada masa lalu, pohon ini sangat terkenal karena getahnya yang sangat beracun, yang digunakan untuk meracuni mata panah (Gr. toxicon: racun panah). </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Rosales</wo:order>
+        <wo:family>Moraceae</wo:family>
+        <wo:genus>Antiaris</wo:genus>
+        <dc:identifier>Tumbuhan Pewarna</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Pilang">
+        <dbo:name>Pilang</dbo:name>
+        <dbo:latinName>Acacia leucophloea</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Acac_leucop_080719-1498_soe.jpg/250px-Acac_leucop_080719-1498_soe.jpg</dc:image>
+        <dc:description>Pilang atau kabesak adalah sejenis pohon dari suku Fabaceae (=Leguminosae, polong-polongan) penghuni savana dan hutan musim di daerah kering. Bertajuk menyerupai payung, pohon dengan kulit batang berwarna putih kekuningan ini sering tampak menyolok di tengah-tengah semak dan padang rumput.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Fabales</wo:order>
+        <wo:family>Fabaceae</wo:family>
+        <wo:genus>Acacia</wo:genus>
+        <dc:identifier>Tumbuhan Pewarna</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kacang_kratok">
+        <dbo:name>Kacang kratok</dbo:name>
+        <dbo:latinName>Phaseolus lunatus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Phaseol_lunat_130815-0011_tdp.JPG/220px-Phaseol_lunat_130815-0011_tdp.JPG</dc:image>
+        <dc:description>Merupakan tumbuhan terna semusim atau terkadang menahun; forma yang menyemak tumbuh hingga 0,6 m, forma yang memanjat hingga 2–4 m tingginya. Perakarannya menjalar 1,5–2 m ke dalam tanah. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Fabales</wo:order>
+        <wo:family>Fabaceae</wo:family>
+        <wo:genus>Phaseolus</wo:genus>
+        <dc:identifier>Tumbuhan Pewarna</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Keledang">
+        <dbo:name>Keledang</dbo:name>
+        <dbo:latinName>Artocarpus lanceifolius Roxb</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Keledang.jpg/240px-Keledang.jpg</dc:image>
+        <dc:description>Keledang (Artocarpus lanceifolius Roxb) termasuk buah langka bumi Kalimantan. Keledang merupakan buah yang mulai terlupakan seiring dengan habisnya hutan-hutan alami. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Urticales</wo:order>
+        <wo:family>Moraceae</wo:family>
+        <wo:genus>Artocarpus</wo:genus>
+        <dc:identifier>Tumbuhan Pewarna</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kesambi">
+        <dbo:name>Kesambi</dbo:name>
+        <dbo:latinName>Schleichera oleosa</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%22%2B%EA%A6%AE%EA%A6%B6%EA%A6%A0%EA%A7%80%EA%A6%8F%EA%A6%BC%EA%A6%B1%EA%A6%A9%EA%A7%80%EA%A6%A7%EA%A6%B6%2B%22_Schleichera_oleosa_-_Pohon_Kesambi_-_Pilangsari-2019_02.jpg/300px-%22%2B%EA%A6%AE%EA%A6%B6%EA%A6%A0%EA%A7%80%EA%A6%8F%EA%A6%BC%EA%A6%B1%EA%A6%A9%EA%A7%80%EA%A6%A7%EA%A6%B6%2B%22_Schleichera_oleosa_-_Pohon_Kesambi_-_Pilangsari-2019_02.jpg</dc:image>
+        <dc:description>Kesambi atau kosambi (Schleichera oleosa) adalah nama sejenis pohon daerah kering, kerabat rambutan dari suku Sapindaceae.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Sapindales</wo:order>
+        <wo:family>Sapindaceae</wo:family>
+        <wo:genus>Schleichera</wo:genus>
+        <dc:identifier>Tumbuhan Pewarna</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Lenggadai">
+        <dbo:name>Lenggadai</dbo:name>
+        <dbo:latinName>Bruguiera parviflora</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brugu_parvi_111021-18857_Fr_kbu.jpg/220px-Brugu_parvi_111021-18857_Fr_kbu.jpg</dc:image>
+        <dc:description> Lenggadai (Bruguiera parviflora) adalah sejenis perdu atau pohon kecil penghuni hutan bakau, anggota suku Rhizophoraceae. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Malpighiales</wo:order>
+        <wo:family>Rhizophoraceae></wo:family>
+        <wo:genus>Bruguiera</wo:genus>
+        <dc:identifier>Tumbuhan Pewarna</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Nangka">
+        <dbo:name>Nangka</dbo:name>
+        <dbo:latinName>Artocarpus heterophyllus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Artocarpus_heterophyllus_fruits_at_tree.jpg/225px-Artocarpus_heterophyllus_fruits_at_tree.jpg</dc:image>
+        <dc:description> Nangka adalah nama sejenis pohon, sekaligus buahnya. Pohon nangka termasuk ke dalam suku Moraceae; nama ilmiahnya adalah Artocarpus heterophyllus. Dalam bahasa Inggris, nangka dikenal sebagai jackfruit.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Rosales</wo:order>
+        <wo:family>Moraceae</wo:family>
+        <wo:genus>Artocarpus</wo:genus>
+        <dc:identifier>Tumbuhan Pewarna</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Putut">
+        <dbo:name>Putut</dbo:name>
+        <dbo:latinName>Bruguiera gymnorrhiza</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bruguiera_gymnorrhiza00.jpg/220px-Bruguiera_gymnorrhiza00.jpg</dc:image>
+        <dc:description>Putut, tumu atau kendeka (Bruguiera gymnorrhiza) adalah sejenis perdu atau pohon kecil penghuni hutan bakau, anggota suku Rhizophoraceae. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Malpighiales</wo:order>
+        <wo:family>Rhizophoraceae</wo:family>
+        <wo:genus>Bruguiera</wo:genus>
+        <dc:identifier>Tumbuhan Pewarna</dc:identifier>
+    </rdf:Description>
+
+<!-- POHON BUAH -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Duku">
+        <dbo:name>Duku</dbo:name>
+        <dbo:latinName>Lansium parasiticum</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Duku_Lansium_domesticum_Ripe.jpg/240px-Duku_Lansium_domesticum_Ripe.jpg</dc:image>
+        <dc:description>Pohon yang berukuran sedang, dengan tinggi mencapai 30 m dan gemang hingga 75 cm. Batang biasanya beralur-alur dalam tak teratur, dengan banir (akar papan) yang pipih menonjol di atas tanah.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Sapindales</wo:order>
+        <wo:family>Meliaceae</wo:family>
+        <wo:genus>Lansium</wo:genus>
+        <dc:identifier>Tumbuhan Pohon Buah</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Durian">
+        <dbo:name>Durian</dbo:name>
+        <dbo:latinName>Durio zibethinus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Durio_Zibethinus_Van_Nooten.jpg/250px-Durio_Zibethinus_Van_Nooten.jpg</dc:image>
+        <dc:description>Durian adalah nama tumbuhan tropis yang berasal dari wilayah Asia Tenggara, sekaligus nama buahnya yang bisa dimakan. Nama ini diambil dari ciri khas kulit buahnya yang keras dan berlekuk-lekuk tajam sehingga menyerupai duri. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Malvales</wo:order>
+        <wo:family>Malvaceae</wo:family>
+        <wo:genus>Durio</wo:genus>
+        <dc:identifier>Tumbuhan Pohon Buah</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Jambu_air">
+        <dbo:name>Jambu ari</dbo:name>
+        <dbo:latinName>Syzygium aqueum</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jambuair2.jpg/250px-Jambuair2.jpg</dc:image>
+        <dc:description> Jambu air adalah tumbuhan dalam suku jambu-jambuan atau Myrtaceae yang berasal dari Asia Tenggara.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Myrtales</wo:order>
+        <wo:family>Myrtaceae</wo:family>
+        <wo:genus>Syzygium</wo:genus>
+        <dc:identifier>Tumbuhan Pohon Buah</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Mangga">
+        <dbo:name>Mangga</dbo:name>
+        <dbo:latinName>Mangifera indica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mangga_gedong_gincu_071021-0845_tmo.jpg/250px-Mangga_gedong_gincu_071021-0845_tmo.jpg</dc:image>
+        <dc:description>Mangga atau mempelam adalah nama sejenis buah, demikian pula nama pohonnya. Mangga termasuk ke dalam marga Mangifera, yang terdiri dari 35-40 anggota dan suku Anacardiaceae.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Sapindales</wo:order>
+        <wo:family>Anacardiaceae</wo:family>
+        <wo:genus>Magnifera</wo:genus>
+        <dc:identifier>Tumbuhan Pohon Buah</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Mentawa">
+        <dbo:name>Mentawa</dbo:name>
+        <dbo:latinName></dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arto_aniso_T_070203_mncg.JPG/220px-Arto_aniso_T_070203_mncg.JPG</dc:image>
+        <dc:description>Mentawa, mentawak, atau entawak (Artocarpus anisophyllus) adalah sejenis pohon besar anggota suku Moraceae. Pohon penghasil buah dan kayu ini menyebar di Semenanjung Malaya, Sumatra, Borneo, dan pulau-pulau kecil di antaranya.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Rosales</wo:order>
+        <wo:family>Moraceae</wo:family>
+        <wo:genus>Artocarpus</wo:genus>
+        <dc:identifier>Tumbuhan Pohon Buah</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Persik">
+        <dbo:name>Persik</dbo:name>
+        <dbo:latinName>Amygdalus persica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Autumn_Red_peaches.jpg/300px-Autumn_Red_peaches.jpg</dc:image>
+        <dc:description> Persik(Prunus persica) adalah tanaman tanaman berbuah dari famili Rosaceae. Buah ini disebut juga sebagai buah táo dalam bahasa Mandarin dan momo dalam bahasa Jepang. Buah persik, kadang disebut nektarina, memiliki daging berwarna kuning dengan aroma harum dan memiliki satu biji yang keras.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Rosales</wo:order>
+        <wo:family>Rosaceae</wo:family>
+        <wo:genus>Prunus</wo:genus>
+        <dc:identifier>Tumbuhan Pohon Buah</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Sawo_manila">
+        <dbo:name>Sawo manila</dbo:name>
+        <dbo:latinName>Manilkara zapota</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Chikoo.JPG/250px-Chikoo.JPG</dc:image>
+        <dc:description>Sawo manila (Manilkara zapota) adalah pohon buah yang berumur panjang. Pohon dan buahnya dikenal dengan beberapa nama seperti sawo (Ind., Jw.), sauh atau sauh manila, atau ciku (Mly.). </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Ericales</wo:order>
+        <wo:family>Sapotaceae</wo:family>
+        <wo:genus>Manilkara</wo:genus>
+        <dc:identifier>Tumbuhan Pohon Buah</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Gowok">
+        <dbo:name>Gowok</dbo:name>
+        <dbo:latinName>Syzygium polycephalum</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Buah_Gohok.jpg/250px-Buah_Gohok.jpg</dc:image>
+        <dc:description>Gowok, kupa, atau kepa adalah pohon buah anggota suku jambu-jambuan atau Myrtaceae yang berasal dari Indonesia, khususnya Jawa Sulawesi dan Kalimantan. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Myrtales</wo:order>
+        <wo:family>Myrtaceae</wo:family>
+        <wo:genus>Syzygium</wo:genus>
+        <dc:identifier>Tumbuhan Pohon Buah</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Ceri">
+        <dbo:name>Ceri</dbo:name>
+        <dbo:latinName>Cerasus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fr%C3%BChling_bl%C3%BChender_Kirschenbaum.jpg/300px-Fr%C3%BChling_bl%C3%BChender_Kirschenbaum.jpg</dc:image>
+        <dc:description>Ceri (Prunus subg. Cerasus) adalah subgenus tumbuhan dari Prunus, dengan ciri-ciri memiliki bunga corymbs kecil majemuk (tidak sendiri-sendiri, atau dalam racemes), dan memiliki buah yang halus dengan hanya alur lemah di satu sisi, atau tidak ada alur. Subgenus adalah tanaman asli daerah beriklim belahan bumi utara, dengan dua spesies di Amerika, tiga di Eropa, dan sisanya di Asia.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Eudikotil</wo:class>
+        <wo:order>Rosales</wo:order>
+        <wo:family>Rosaceae</wo:family>
+        <wo:genus>Prunus</wo:genus>
+        <dc:identifier>Tumbuhan Pohon Buah</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Cempedak">
+        <dbo:name>Cempedak</dbo:name>
+        <dbo:latinName>Artocarpus integer</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Berthe_Hoola_van_Nooten38.jpg/225px-Berthe_Hoola_van_Nooten38.jpg</dc:image>
+        <dc:description>Cempedak adalah tanaman buah-buahan dari famili Moraceae. Bentuk buah, rasa dan keharumannya seperti nangka, meski aromanya kerap kali menusuk kuat mirip buah durian.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Urticales</wo:order>
+        <wo:family>Moraceae</wo:family>
+        <wo:genus>Artocarpus</wo:genus>
+        <dc:identifier>Tumbuhan Pohon Buah</dc:identifier>
+    </rdf:Description>
+
+<!-- Tumbuhan beracun -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Akar_binasa">
+        <dbo:name>Akar binasa</dbo:name>
+        <dbo:latinName>Plumbago indica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Plumbago_rosea01.jpg/220px-Plumbago_rosea01.jpg</dc:image>
+        <dc:description>Akar binasa (Plumbago indica) adalah spesies dari tumbuhan berbunga dalam famili Plumbaginaceae, yang berasal dari Asia Tenggara. Ia dikenal dengan sebutan ceraka merah dan mehulatu. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Caryophyllales</wo:order>
+        <wo:family>Plumbaginaceae</wo:family>
+        <wo:genus>Plumbago</wo:genus>
+        <dc:identifier>Tumbuhan Beracun</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Buah_makasar">
+        <dbo:name>Buah makasar</dbo:name>
+        <dbo:latinName>Brucea javanica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/id/thumb/f/f1/Buah_makassar.png/220px-Buah_makassar.png</dc:image>
+        <dc:description>Buah makasar (Brucea javanica) disebut juga amber merica adalah perdu tegak menahun yang tumbuh meliar di hutan.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Sapindales</wo:order>
+        <wo:family>Simaroubaceae</wo:family>
+        <wo:genus>Brucea</wo:genus>
+        <dc:identifier>Tumbuhan Beracun</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Daun_encok">
+        <dbo:name>Daun encok</dbo:name>
+        <dbo:latinName>Plumbago zeylanica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Plumbago_zeylanica1MTFL.jpg/220px-Plumbago_zeylanica1MTFL.jpg</dc:image>
+        <dc:description>Daun encok (Plumbago zeylanica) adalah semak-semak yang tumbuh dari Afrika dan tersebar hingga Indonesia. Tumbuhan ini dikenal dengan nama bama (Bali), ki encok (Sunda),[3] godong encok (Jawa), kareka (Madura), dan oporio (Timor).</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Dicotyledoneae</wo:class>
+        <wo:order>Caryophyllales</wo:order>
+        <wo:family>Plumbaginaceae</wo:family>
+        <wo:genus>Plumbago</wo:genus>
+        <dc:identifier>Tumbuhan Beracun</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Dudaim">
+        <dbo:name>Dudaim</dbo:name>
+        <dbo:latinName>Mandrake</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mandrake-roots.jpg/220px-Mandrake-roots.jpg</dc:image>
+        <dc:description>Dudaim (bahasa Inggris: mandrake) merupakan nama umum untuk jenis tumbuhan yang tergolong genus Mandragora, khususnya spesies Mandragora officinarum atau Mandragora autumnalis, yang termasuk ke dalam familia nightshade (Solanaceae). </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Dicotyledoneae</wo:class>
+        <wo:order>Solanales</wo:order>
+        <wo:family>Solanaceae</wo:family>
+        <wo:genus>Mandragora</wo:genus>
+        <dc:identifier>Tumbuhan Beracun</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Eceng">
+        <dbo:name>Eceng</dbo:name>
+        <dbo:latinName>Monochoria vaginalis</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Monochoria_vaginalis_at_Kadavoor.jpg/220px-Monochoria_vaginalis_at_Kadavoor.jpg</dc:image>
+        <dc:description>Eceng, eceng padi atau wewehan adalah sejenis tumbuhan air yang biasa menjadi gulma di area persawahan. Nama ilmiahnya adalah Monochoria vaginalis. Tumbuhan ini memiliki nama yang berbeda-beda di setiap daerah di Indonesia. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Dicotyledoneae</wo:class>
+        <wo:order>Commelinales</wo:order>
+        <wo:family>Pontederiaceae</wo:family>
+        <wo:genus>Monochoria</wo:genus>
+        <dc:identifier>Tumbuhan Beracun</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Euphorbia">
+        <dbo:name>Euphorbia</dbo:name>
+        <dbo:latinName>Euphorbia</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/E_atropurpurea_atropurpurea4_ies.jpg/220px-E_atropurpurea_atropurpurea4_ies.jpg</dc:image>
+        <dc:description>Euphorbia adalah salah satu genus tumbuhan berbunga terbesar yang memiliki 2.420 spesies. Jenis bunga dari genus ini banyak yang memiliki peran penting bagi manusia. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Dicotyledoneae</wo:class>
+        <wo:order>Malpighiales</wo:order>
+        <wo:family>Euphorbiaceae</wo:family>
+        <wo:genus>Euphorbia</wo:genus>
+        <dc:identifier>Tumbuhan Beracun</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Ipuh">
+        <dbo:name>Ipuh</dbo:name>
+        <dbo:latinName>Antiaris toxicaria</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Antia_toxi_101009-7190_mp.jpg/240px-Antia_toxi_101009-7190_mp.jpg</dc:image>
+        <dc:description>Ipuh, ipoh atau upas (Antiaris toxicaria) adalah sejenis pohon anggota suku Moraceae. Pada masa lalu, pohon ini sangat terkenal karena getahnya yang sangat beracun, yang digunakan untuk meracuni mata panah. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Dicotyledoneae</wo:class>
+        <wo:order>Rosales</wo:order>
+        <wo:family>Moraceae</wo:family>
+        <wo:genus>Antiaris</wo:genus>
+        <dc:identifier>Tumbuhan Beracun</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kecubung_hutan">
+        <dbo:name>Kecubung hutan</dbo:name>
+        <dbo:latinName>Brugmansia suaveolens</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brugmansia_suaveolens_-_zhank_puttra_2019.jpg/300px-Brugmansia_suaveolens_-_zhank_puttra_2019.jpg</dc:image>
+        <dc:description>Kecubung hutan (Brugmansia suaveolens) adalah spesies tumbuhan menahun dari suku Solanaceae. Tumbuhan genus Brugmansia sering disebut sebagai terompet malaikat karena memiliki bunga bebentuk terompet.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Dicotyledoneae</wo:class>
+        <wo:order>Solanales</wo:order>
+        <wo:family>Solanaceae</wo:family>
+        <wo:genus>Brugmansia</wo:genus>
+        <dc:identifier>Tumbuhan Beracun</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kepayang">
+        <dbo:name>Kepayang</dbo:name>
+        <dbo:latinName>Pangium edule</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pangium_edule_seeds.JPG/250px-Pangium_edule_seeds.JPG</dc:image>
+        <dc:description>Kepayang atau keluak (Pangium edule Reinw. ex Blume; suku Achariaceae, dulu dimasukkan dalam Flacourtiaceae) adalah pohon yang tumbuh liar atau setengah liar penghasil bahan bumbu masak sejumlah masakan Nusantara.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malpighiales</wo:order>
+        <wo:family>Achariaceae</wo:family>
+        <wo:genus>Pangium</wo:genus>
+        <dc:identifier>Tumbuhan Beracun</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Mindi_kecil">
+        <dbo:name>Mindi kecil</dbo:name>
+        <dbo:latinName>M. azedarach</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Starr_070302-4984_Melia_azedarach.jpg/240px-Starr_070302-4984_Melia_azedarach.jpg</dc:image>
+        <dc:description>Mindi adalah tanaman pohon dari famili Meliaceae. Mindi juga dikenal sebagai renceh (Sumatra) dan gringging, mindi, cakra-cikri (Jawa).</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Sapindales</wo:order>
+        <wo:family>Meliaceae</wo:family>
+        <wo:genus>Melia</wo:genus>
+        <dc:identifier>Tumbuhan Beracun</dc:identifier>
+    </rdf:Description>
+
+<!-- Rotan -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Rotan_badak">
+        <dbo:name>Rotan badak</dbo:name>
+        <dbo:latinName>Plectocomia elongata</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Plectoc_elon_071211-2485_kbdg.JPG/220px-Plectoc_elon_071211-2485_kbdg.JPG</dc:image>
+        <dc:description>Rotan badak atau bubuay (Plectocomia elongata) adalah sejenis tumbuhan dari suku palem-paleman (Palmae) yang menyebar di Asia Tenggara dan Indonesia bagian barat. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Arecales</wo:order>
+        <wo:family>Arecaceae</wo:family>
+        <wo:genus>Plectocomia</wo:genus>
+        <dc:identifier>Tumbuhan Rotan</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Rotan_dahanan">
+        <dbo:name>Rotan dahanan</dbo:name>
+        <dbo:latinName>Korthalsia flagellaris</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rotan_dahanan.jpg/220px-Rotan_dahanan.jpg</dc:image>
+        <dc:description>Rotan dahanan (Korthalsia flagellaris) adalah flora asal Indonesia. Di Indonesia, rotan dahanan dikenal pula dengan nama rotan dahanan (Mel.), dan rotan andung (Kubu).</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Arecales</wo:order>
+        <wo:family>Calamoideae</wo:family>
+        <wo:genus>Korthalsia</wo:genus>
+        <dc:identifier>Tumbuhan Rotan</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Rotan_irit">
+        <dbo:name>Rotan irit</dbo:name>
+        <dbo:latinName>Calamus trachycoleus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rotan_irit.jpg/220px-Rotan_irit.jpg</dc:image>
+        <dc:description>Rotan irit (Calamus trachycoleus) adalah rotan berkualitas baik untuk membuat lampit (tikar). Di Indonesia, rotan irit dikenal dengan nama-nama seperti rotan irit (Melayu Banjar), uwèï irit (Dayak Ngaju), dan jahap (Kutai).</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Arecales</wo:order>
+        <wo:family>Arecaceae</wo:family>
+        <wo:genus>Calamus</wo:genus>
+        <dc:identifier>Tumbuhan Rotan</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Rotan_jernang_besar">
+        <dbo:name>Rotan jernang besar</dbo:name>
+        <dbo:latinName>Daemonorops draco</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daemonorops_draco_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-023.jpg/220px-Daemonorops_draco_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-023.jpg</dc:image>
+        <dc:description>Rotan jernang besar (Daemonorops draco) adalah sejenis rotan anggota suku Arecaceae (Palmae). Rotan ini dapat ditemui di Semenanjung Malaya, Sumatra dan Kalimantan.Dari rotan ini dihasilkan resin jernang dan rotan bahan anyaman.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Arecales</wo:order>
+        <wo:family>Arecaceae</wo:family>
+        <wo:genus>Daemonorops</wo:genus>
+        <dc:identifier>Tumbuhan Rotan</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Rotan_lilin">
+        <dbo:name>Rotan lilin</dbo:name>
+        <dbo:latinName>Calamus javensis</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rotan_lilin.jpg/220px-Rotan_lilin.jpg</dc:image>
+        <dc:description>Rotan lilin (Calamus javensis) adalah sejenis rotan yang dipakai untuk tali-temali, macam-macam kerajinan, dan dahulu sempat diekspor ke luar negeri pada zaman Hindia Belanda.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Arecales</wo:order>
+        <wo:family>Arecaceae</wo:family>
+        <wo:genus>Calamus</wo:genus>
+        <dc:identifier>Tumbuhan Rotan</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Palem_paris">
+        <dbo:name>Palem paris</dbo:name>
+        <dbo:latinName>Calamus ciliaris</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Palem_paris.jpg/220px-Palem_paris.jpg</dc:image>
+        <dc:description>Palem paris (Calamus ciliaris) adalah palem -yang sebenarnya masuk keluarga rotan-rotanan- yang dipergunakan sebagai tanaman hias. Di Indonesia, palem paris dikenal dengan nama-nama seperti howè geureung, h. muka, dan h. cacing (Sunda).</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Arecales</wo:order>
+        <wo:family>Arecaceae</wo:family>
+        <wo:genus>Calamus</wo:genus>
+        <dc:identifier>Tumbuhan Rotan</dc:identifier>
+    </rdf:Description>
+
+<!-- Tumbuhan serat -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Andilau">
+        <dbo:name>Andilau</dbo:name>
+        <dbo:latinName>Commersonia bartramia</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Commerson_bartram_070601-013_ipb.JPG/240px-Commerson_bartram_070601-013_ipb.JPG</dc:image>
+        <dc:description>Andilau atau durian tupai (Commersonia bartramia (L.) Merr.) adalah sejenis pohon kecil dari suku Malvaceae (sebelumnya Sterculiaceae). </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malvales</wo:order>
+        <wo:family>Malvaceae</wo:family>
+        <wo:genus>Commersonia</wo:genus>
+        <dc:identifier>Tumbuhan Serat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Balik_angin">
+        <dbo:name>Balik angin</dbo:name>
+        <dbo:latinName>Mallotus paniculatus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mallo_panic_100621-4416_mms.JPG/300px-Mallo_panic_100621-4416_mms.JPG</dc:image>
+        <dc:description>Balik angin (Mallotus paniculatus) adalah sejenis pohon penyusun hutan sekunder, anggota suku Euphorbiaceae. Pohon kecil ini tidak banyak dimanfaatkan.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malpighiales</wo:order>
+        <wo:family>Euphorbiaceae</wo:family>
+        <wo:genus>Mallotus</wo:genus>
+        <dc:identifier>Tumbuhan Serat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Hamerang_putih">
+        <dbo:name>Hamerang putih</dbo:name>
+        <dbo:latinName>Ficus padana</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ficu_padan_160621-59722_tpl.JPG/250px-Ficu_padan_160621-59722_tpl.JPG</dc:image>
+        <dc:description>Hamerang putih (Ficus padana) adalah sejenis pohon kecil penyusun hutan sekunder, anggota suku Moraceae. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Rosales</wo:order>
+        <wo:family>Moraceae</wo:family>
+        <wo:genus>Ficus</wo:genus>
+        <dc:identifier>Tumbuhan Serat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kapas_hantu">
+        <dbo:name>Kapas hantu</dbo:name>
+        <dbo:latinName>Abroma augusta</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Abrom_augus_070601_020_ipb.JPG/240px-Abrom_augus_070601_020_ipb.JPG</dc:image>
+        <dc:description>Kapas hantu (Abroma augusta adalah sejenis pohon kecil dari suku Malvaceae). Perdu ini menyebar mulai dari India, Asia Tenggara, Tiongkok selatan, melalui Nusantara hingga ke Pasifik. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malvales</wo:order>
+        <wo:family>Malvaceae</wo:family>
+        <wo:genus>Abroma</wo:genus>
+        <dc:identifier>Tumbuhan Serat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kelumbuk">
+        <dbo:name>Kelumbuk</dbo:name>
+        <dbo:latinName>Pterocymbium tinctorium</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pterocy_tinctori_090911-13069_hurn.JPG/220px-Pterocy_tinctori_090911-13069_hurn.JPG</dc:image>
+        <dc:description>Kelumbuk, gelumbah atau tongtolok (Pterocymbium tinctorium) adalah sejenis pohon besar anggota suku Malvaceae, anaksuku Sterculioideae (sebelumnya, suku Sterculiaceae).</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malvales</wo:order>
+        <wo:family>Malvaceae</wo:family>
+        <wo:genus>Pterocymbium</wo:genus>
+        <dc:identifier>Tumbuhan Serat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Sagu_hutan">
+        <dbo:name>Sagu hutan</dbo:name>
+        <dbo:latinName>Pigafetta filaris</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pigaf_filar_131129-42331_soq.JPG/250px-Pigaf_filar_131129-42331_soq.JPG</dc:image>
+        <dc:description>Sagu hutan, sagu lelaki, atau sagu rotan (Pigafetta filaris) adalah sejenis palma yang tinggi dan anggun; yang menyebar di dataran rendah Kepulauan Maluku hingga Papua.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Arecales</wo:order>
+        <wo:family>Arecaceae</wo:family>
+        <wo:genus>Pigafetta</wo:genus>
+        <dc:identifier>Tumbuhan Serat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Tisuk">
+        <dbo:name>Tisuk</dbo:name>
+        <dbo:latinName>Hibiscus macrophyllus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hibi_macro_080124-3998_bunw.jpg/250px-Hibi_macro_080124-3998_bunw.jpg</dc:image>
+        <dc:description>Tisuk atau baru kesi (Hibiscus macrophyllus) adalah pohon sebangsa waru, anggota dari suku kapas-kapasan atau Malvaceae. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malvales</wo:order>
+        <wo:family>Malvaceae</wo:family>
+        <wo:genus>Hibiscus</wo:genus>
+        <dc:identifier>Tumbuhan Serat</dc:identifier>
+    </rdf:Description>    
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Wanga">
+        <dbo:name>Wanga</dbo:name>
+        <dbo:latinName>Pigafetta elata</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pigaf_elat_160315-0437_mms.JPG/250px-Pigaf_elat_160315-0437_mms.JPG</dc:image>
+        <dc:description>Wanga atau banga (Pigafetta elata) adalah sejenis palma yang tinggi dan indah; yang menyebar terbatas di wilayah pegunungan di Sulawesi. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Arecales</wo:order>
+        <wo:family>Arecaceae</wo:family>
+        <wo:genus>Pigafetta</wo:genus>
+        <dc:identifier>Tumbuhan Serat</dc:identifier>
+    </rdf:Description>  
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Waru">
+        <dbo:name>Waru</dbo:name>
+        <dbo:latinName>Hibiscus tiliaceus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hibiscus_tiliaceus.jpg/250px-Hibiscus_tiliaceus.jpg</dc:image>
+        <dc:description>Waru atau baru (Hibiscus tiliaceus, suku kapas-kapasan atau Malvaceae), juga dikenal sebagai waru laut, dan dadap laut (Pontianak) telah lama dikenal sebagai pohon peneduh</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malvales</wo:order>
+        <wo:family>Malvaceae</wo:family>
+        <wo:genus>Hibiscus</wo:genus>
+        <dc:identifier>Tumbuhan Serat</dc:identifier>
+    </rdf:Description> 
+
+<!-- Tumbuhan obat -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Calincing_tanah">
+        <dbo:name>Calincing tanah</dbo:name>
+        <dbo:latinName>Oxalis barrelieri</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Calingcing.jpg/300px-Calingcing.jpg</dc:image>
+        <dc:description>Calincing tanah adalah salah satu tanaman berbunga yang berasal dari Genus oxalis, tanaman ini tumbuh liar di pekarangan atau pesawahan. Tanaman ini dipercaya bisa digunakan sebagai tanaman obat.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Oxalidales</wo:order>
+        <wo:family>Oxalidaceae</wo:family>
+        <wo:genus>Oxalis</wo:genus>
+        <dc:identifier>Tumbuhan Obat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Ceplukan">
+        <dbo:name>Ceplukan</dbo:name>
+        <dbo:latinName>Physalis angulata</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Physa_angul_041108_002_tdp.jpg/240px-Physa_angul_041108_002_tdp.jpg</dc:image>
+        <dc:description>Ceplukan atau ciplukan adalah nama sejenis buah kecil, yang ketika masak tertutup oleh perbesaran kelopak bunga.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Solanales</wo:order>
+        <wo:family>Solanaceae</wo:family>
+        <wo:genus>Physalis</wo:genus>
+        <dc:identifier>Tumbuhan Obat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Cocor_bebek">
+        <dbo:name>Cocor bebek</dbo:name>
+        <dbo:latinName>Kalanchoe pinnata</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kalanchoe_veg.jpg/300px-Kalanchoe_veg.jpg</dc:image>
+        <dc:description>Cocor bebek atau suru bebek (Latin:Kalanchoe pinnata syn. Bryophyllum calycinum syn. Bryophyllum pinnatum) adalah tumbuhan sukulen (mengandung air) yang berasal dari Madagaskar. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Saxifragales</wo:order>
+        <wo:family>Crassulaceae</wo:family>
+        <wo:genus>Kalanchoe</wo:genus>
+        <dc:identifier>Tumbuhan Obat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Sirih">
+        <dbo:name>Sirih</dbo:name>
+        <dbo:latinName>Piper betle</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/1/11/Piper_betle_leaf.jpg</dc:image>
+        <dc:description>Sirih adalah tanaman asli Indonesia yang tumbuh merambat atau bersandar pada batang pohon lain. Sebagai budaya daun dan buahnya biasa dikunyah bersama gambir, pinang, tembakau dan kapur. Namun mengunyah sirih telah dikaitkan dengan penyakit kanker mulut dan pembentukan squamous cell carcinoma yang bersifat malignan. Juga kapurnya membuat pengerutan gusi (periodentitis) yang dapat membuat gigi tanggal, walaupun daun sirihnya yang mengandung antiseptik pencegah gigi berlubang</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Piperales</wo:order>
+        <wo:family>Piperaceae</wo:family>
+        <wo:genus>Piper</wo:genus>
+        <dc:identifier>Tumbuhan Obat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Daun_jintan">
+        <dbo:name>Daun jintan</dbo:name>
+        <dbo:latinName>Plectranthus amboinicus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Piper_betle_leaf.jpg/220px-Piper_betle_leaf.jpg</dc:image>
+        <dc:description>Sirih adalah tanaman asli Indonesia yang tumbuh merambat atau bersandar pada batang pohon lain. Sebagai budaya daun dan buahnya biasa dikunyah bersama gambir, pinang, tembakau dan kapur.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Lamiales</wo:order>
+        <wo:family>Lamiaceae</wo:family>
+        <wo:genus>Plectranthus</wo:genus>
+        <dc:identifier>Tumbuhan Obat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Gambir">
+        <dbo:name>Gambir</dbo:name>
+        <dbo:latinName>Uncaria</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Uncaria_rhynchophylla_kagikzr01.jpg/300px-Uncaria_rhynchophylla_kagikzr01.jpg</dc:image>
+        <dc:description>Gambir (Uncaria) adalah genus tumbuhan yang termasuk suku rubiaceae. Di Indonesia gambir pada umumnya digunakan untuk menyirih.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Gentianales</wo:order>
+        <wo:family>Rubiaceae</wo:family>
+        <wo:genus>Uncaria</wo:genus>
+        <dc:identifier>Tumbuhan Obat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Ginseng">
+        <dbo:name>Ginseng</dbo:name>
+        <dbo:latinName>Panax</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Panax_quinquefolius.jpg/300px-Panax_quinquefolius.jpg</dc:image>
+        <dc:description>Ginseng (Panax) adalah spesies terna berkhasiat obat yang termasuk dalam suku Araliaceae. Ginseng tumbuh di wilayah belahan bumi utara terutama di Siberia, Manchuria, Korea, dan Amerika Serikat. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Apiales</wo:order>
+        <wo:family>Araliaceae</wo:family>
+        <wo:genus>Panax</wo:genus>
+        <dc:identifier>Tumbuhan Obat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Jarak_merah">
+        <dbo:name>Jarak merah</dbo:name>
+        <dbo:latinName>Jatropha gossypiifolia</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bellyache_Bush_%28Jatropha_gossipifolia%29_in_Hyderabad%2C_AP_W_IMG_9473.jpg/300px-Bellyache_Bush_%28Jatropha_gossipifolia%29_in_Hyderabad%2C_AP_W_IMG_9473.jpg</dc:image>
+        <dc:description>Jarak merah (Jatropha gossypiifolia) adalah tanaman etnobotani yang dapat dijadikan sebagai sumber obat tradisional.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Malpighiales</wo:order>
+        <wo:family>Euphorbiaceae</wo:family>
+        <wo:genus>Jatropha</wo:genus>
+        <dc:identifier>Tumbuhan Obat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Alang-alang">
+        <dbo:name>Alang-alang</dbo:name>
+        <dbo:latinName>Imperata cylindrica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Impera_cylind_071122-1347_stgd.jpg/240px-Impera_cylind_071122-1347_stgd.jpg</dc:image>
+        <dc:description>Alang-alang, ilalang atau lalang (Imperata cylindrica Raeusch.) ialah sejenis rumput berdaun tajam, yang kerap menjadi gulma di lahan pertanian. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Poales</wo:order>
+        <wo:family>Poaceae</wo:family>
+        <wo:genus>Imperata</wo:genus>
+        <dc:identifier>Tumbuhan Obat</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Bratawali">
+        <dbo:name>Bratawali</dbo:name>
+        <dbo:latinName>Tinospora cordifolia</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tinospora_cordifolia.jpg/300px-Tinospora_cordifolia.jpg</dc:image>
+        <dc:description>Bratawali, akar ali-ali atau brotowali (Tinospora cordifolia) adalah tanaman obat tradisional Indonesia yang biasa ditanam di pekarangan atau tumbuh liar di hutan.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Ranunculales</wo:order>
+        <wo:family>Menispermaceae</wo:family>
+        <wo:genus>Tinospara</wo:genus>
+        <dc:identifier>Tumbuhan Obat</dc:identifier>
+    </rdf:Description>
+    
+<!-- Tumbuhan sayur -->
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Asparagus">
+        <dbo:name>Asparagus</dbo:name>
+        <dbo:latinName>Asparagus officinalis</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Asparagus_produce-1.jpg/240px-Asparagus_produce-1.jpg</dc:image>
+        <dc:description>Asparagus, dalam pengertian umum, adalah suatu jenis sayuran dari satu spesies tumbuhan genus Asparagus, terutama batang muda dari Asparagus officinalis.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Liliopsida</wo:class>
+        <wo:order>Asparagales</wo:order>
+        <wo:family>Asparagaceae</wo:family>
+        <wo:genus>Asparagus</wo:genus>
+        <dc:identifier>Tumbuhan Sayur</dc:identifier>
+    </rdf:Description>
+    
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Bayam">
+        <dbo:name>Bayam</dbo:name>
+        <dbo:latinName>Amaranthus caudatus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amaranthus_tricolor0.jpg/250px-Amaranthus_tricolor0.jpg</dc:image>
+        <dc:description>Bayam (Amaranthus spp.) merupakan tumbuhan yang biasa ditanam untuk dikonsumsi daunnya sebagai sayuran hijau. Tumbuhan ini berasal dari Amerika tropik namun sekarang tersebar ke seluruh dunia.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Caryophyllales</wo:order>
+        <wo:family>Amaranthaceae</wo:family>
+        <wo:genus>Amaranthus</wo:genus>
+        <dc:identifier>Tumbuhan Sayur</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Belimbing_sayur">
+        <dbo:name>Belimbing sayur</dbo:name>
+        <dbo:latinName>Averrhoa bilimbi</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Averrhoa_bilimbi_fruit_by_Sugeesh.jpg/240px-Averrhoa_bilimbi_fruit_by_Sugeesh.jpg</dc:image>
+        <dc:description>Belimbing sayur merupakan sejenis pohon kecil yang diperkirakan berasal dari Kepulauan Maluku, dan dikembangbiakkan serta tumbuh bebas di Indonesia, Filipina, Sri Lanka, Myanmar, dan Malaysia.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Oxalidales</wo:order>
+        <wo:family>Oxalidaceae</wo:family>
+        <wo:genus>Averrhoa</wo:genus>
+        <dc:identifier>Tumbuhan Sayur</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Cabai">
+        <dbo:name>Cabai merah</dbo:name>
+        <dbo:latinName>Capsicum annum</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chilipeber.jpg/220px-Chilipeber.jpg</dc:image>
+        <dc:description>Cabai atau cabai merah adalah buah dan tumbuhan anggota genus Capsicum. Buahnya dapat digolongkan sebagai sayuran maupun bumbu, tergantung bagaimana digunakan. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Solanales</wo:order>
+        <wo:family>Solanaceae</wo:family>
+        <wo:genus>Capsicum</wo:genus>
+        <dc:identifier>Tumbuhan Sayur</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Ketela_pohon">
+        <dbo:name>Ketela pohon</dbo:name>
+        <dbo:latinName>Manihot esculenta</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Manihot_esculenta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-090.jpg/210px-Manihot_esculenta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-090.jpg</dc:image>
+        <dc:description>Ketela pohon, ubi kayu, atau singkong (Manihot utilissima) adalah perdu tahunan tropika dan subtropika dari suku Euphorbiaceae. Umbinya dikenal luas sebagai makanan pokok penghasil karbohidrat dan daunnya sebagai sayuran.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Malpighiales</wo:order>
+        <wo:family>Euphorbiaceae</wo:family>
+        <wo:genus>Manihot</wo:genus>
+        <dc:identifier>Tumbuhan Sayur</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Genjer">
+        <dbo:name>Genjer</dbo:name>
+        <dbo:latinName>Limnocharis flava</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Limnocharis_flava_HabitusFlower_BotGardBln0906.jpg/300px-Limnocharis_flava_HabitusFlower_BotGardBln0906.jpg</dc:image>
+        <dc:description>Genjer, kelayan atau eceng (Limnocharis flava) adalah sejenis tumbuhan rawa yang banyak dijumpai di sawah atau perairan dangkal. Biasanya ditemukan bersama-sama dengan eceng gondok. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Alismatales</wo:order>
+        <wo:family>Alismataceae</wo:family>
+        <wo:genus>Limnocharis</wo:genus>
+        <dc:identifier>Tumbuhan Sayur</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Labu_siam">
+        <dbo:name>Labu siam</dbo:name>
+        <dbo:latinName>Sechium edule</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/d/de/Sechium_edule_dsc07767.jpg</dc:image>
+        <dc:description>Labu siam atau jipang (Sechium edule, bahasa Inggris: chayote) adalah tumbuhan suku labu-labuan (Cucurbitaceae) yang dapat dimakan buah dan pucuk mudanya. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Violales</wo:order>
+        <wo:family>Cucurbitaceae</wo:family>
+        <wo:genus>Sechium</wo:genus>
+        <dc:identifier>Tumbuhan Sayur</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Lobak">
+        <dbo:name>Lobak</dbo:name>
+        <dbo:latinName>Raphanus sativus</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Daikon.jpg/220px-Daikon.jpg</dc:image>
+        <dc:description>Lobak adalah tumbuhan yang masuk ke dalam famili Cruciferae. Bentuk umbi lobak seperti wortel, tetapi isi dan kulitnya berwarna putih.</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Brassicales</wo:order>
+        <wo:family>Brassicaceae</wo:family>
+        <wo:genus>Raphanus</wo:genus>
+        <dc:identifier>Tumbuhan Sayur</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Petai">
+        <dbo:name>Petai</dbo:name>
+        <dbo:latinName>Parkia speciosa</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Parkia_speciosa.JPG/250px-Parkia_speciosa.JPG</dc:image>
+        <dc:description>Petai, pete (IPA:pətɛ), atau mlanding (Parkia speciosa) merupakan pohon tahunan tropika dari suku polong-polongan (Fabaceae), anak-suku petai-petaian (Mimosoidae).</dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>Magnoliopsida</wo:class>
+        <wo:order>Fabales</wo:order>
+        <wo:family>Fabaceae</wo:family>
+        <wo:genus>Parkia</wo:genus>
+        <dc:identifier>Tumbuhan Sayur</dc:identifier>
+    </rdf:Description>
+
+    <rdf:Description 
+        rdf:about = "https://id.m.wikipedia.org/wiki/Kangkung">
+        <dbo:name>Kangkung</dbo:name>
+        <dbo:latinName>Ipomoea aquatica</dbo:latinName>
+        <dc:image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/N_Ipoa_D1600.JPG/300px-N_Ipoa_D1600.JPG</dc:image>
+        <dc:description>Kangkung (Ipomoea aquatica Forsk.) adalah tumbuhan yang termasuk jenis sayur-sayuran dan ditanam sebagai makanan. Kangkung banyak dijual di pasar-pasar. </dc:description>
+        <wo:kingdom>Plantae</wo:kingdom>
+        <wo:class>-</wo:class>
+        <wo:order>Solanales</wo:order>
+        <wo:family>Convolvulaceae</wo:family>
+        <wo:genus>Ipomoea</wo:genus>
+        <dc:identifier>Tumbuhan Sayur</dc:identifier>
+    </rdf:Description>
+
+</rdf:RDF>

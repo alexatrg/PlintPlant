@@ -1,0 +1,19 @@
+# Turn off MultiViews
+Options -MultiViews
+
+# Directive to ensure *.rdf files served as appropriate content type, 
+# if not present in main apache config
+AddType application/rdf+xml .rdf
+
+# Rewrite engine setup
+RewriteEngine On
+RewriteBase /rdf
+
+# Rewrite rule to make sure we server HTML content from the namespace URI if requested
+RewriteCond %{HTTP_ACCEPT} text/html [OR]
+RewriteCond %{HTTP_ACCEPT} application/xml [OR]
+RewriteCond %{HTTP_ACCEPT} application/xhtml+xml
+RewriteRule ^index$ xml/plant.xml [R=303]
+
+# Rewrite rule to make sure we serve RDF/XML content from the namespace URL by default
+RewriteRule ^index$ rdf/plant.rdf [R=303]
